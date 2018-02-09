@@ -23,5 +23,5 @@ I wish you as much fun as I had reading this nice stuff. _At least_ as much as I
 The "bookmarks.html" is exported via browser - thus it can be imported again (by you).
 Some tiny "how to" can be found on a (sub) site of my homepage:
 
-< https://kekse.biz/?page:bookmarks >
+< https://kekse.biz/?page:Bookmarks >
 
